@@ -38,4 +38,3 @@ def app_five(block_list):
     pass
 
 app_five(M4BlockChain)
-print(M4BlockChain)
